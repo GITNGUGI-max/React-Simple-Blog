@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "The term “domestic dog” refers to any of several hundred breeds of dog in the world today. While these animals vary drastically in appearance, every dog—from the Chihuahua to the Great Dane—is a member of the same species, Canis familiaris. This separates domestic dogs from wild canines, such as coyotes, foxes, and wolves.Domestic dogs are mostly kept as pets, though many breeds are capable of surviving on their own, whether it’s in a forest or on city streets. A third of all households worldwide have a dog, according to a 2016 consumer insights study. This makes the domestic dog the most popular pet on the planet.",
+      "author": "Dan",
+      "id": 1
+    },
+    {
+      "title": "My second blog",
+      "body": "The term “domestic dog” refers to any of several hundred breeds of dog in the world today. While these animals vary drastically in appearance, every dog—from the Chihuahua to the Great Dane—is a member of the same species, Canis familiaris. This separates domestic dogs from wild canines, such as coyotes, foxes, and wolves.Domestic dogs are mostly kept as pets, though many breeds are capable of surviving on their own, whether it’s in a forest or on city streets. A third of all households worldwide have a dog, according to a 2016 consumer insights study. This makes the domestic dog the most popular pet on the planet.",
+      "author": "Dan",
+      "id": 2
+    }
+  ]
+}
